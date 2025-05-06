@@ -385,10 +385,10 @@ a{
 
     }
     #footer .footer-top .container .row .col {
-        width: fit-content;
+        width: 300px;
 
     }
-    #footer .footer-top .container .row .col p{ width: fit-content;
+    #footer .footer-top .container .row .col p{ width: 300px;
     }
 
 }
